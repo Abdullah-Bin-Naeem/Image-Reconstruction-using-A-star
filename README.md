@@ -8,7 +8,7 @@ Make sure you have the following libraries installed:
 - numpy
 - matplotlib
 - pillow
-- 
+
 If these libraries are already not installed just run this on your jupyter notebook:
 
 ```python
